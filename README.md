@@ -145,7 +145,7 @@ The file is the representation of a nextcloud file. Every file is contained in a
 Tags are used to filter for file and folders. Tags can be created and assigned to files or folders.
 
 ### Share
-Files and folders can be shared with user, user groups or publicly. The share can be password protected and an exiration date can be applied.
+Files and folders can be shared with user, user groups or publicly. The share can be password protected and an expiration date can be applied.
 
 ## API
 This is an overview of the client API.
